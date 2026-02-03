@@ -1,0 +1,14 @@
+# Core
+python-dateutil>=2.8.2
+pytz>=2023.3
+
+# Data handling
+numpy>=1.23.0
+pandas>=1.5.3
+
+# Machine learning
+scikit-learn>=1.2.2
+joblib>=1.2.0
+
+# Optional (recommended for large datasets / speed)
+scipy>=1.10.0
